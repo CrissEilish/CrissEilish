@@ -5,17 +5,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=835&height=44&lines=Computer%20Science%20Student%20%40%20UPTM%20%7C%20CS50x%20Scholar%20%F0%9F%92%BB;Building%20web%20tools%20%26%20exploring%20tech%20%40%20heycriss.dev%20%F0%9F%9A%80" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=3fb950&center=true&vCenter=true&width=835&height=44&lines=Computer%20Science%20Student%20%40%20UPTMA%20%7C%20CS50x%20Scholar%20%F0%9F%92%BB;Building%20web%20tools%20%26%20exploring%20tech%20%40%20heycriss.dev%20%F0%9F%9A%80" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **Full-stack developer &amp; Computer Science student at UPTM. Passionate about web tools, server infrastructure, and building clean user experiences.**  
+🔭 &nbsp;I'm currently working on **Full-stack developer &amp; Computer Science student at UPTMA. Passionate about web tools, server infrastructure, and building clean user experiences.**  
+
 🌱 &nbsp;I'm currently learning **Web applications &amp; digital platforms @ heycriss.dev**  
+
 👯 &nbsp;I'm looking to collaborate on **Laravel/PHP web tools &amp; open-source developer utilities**  
+
 🤔 &nbsp;I'm looking for help with **Advanced Docker workflows &amp; high-availability VPS architecture**  
+
 💬 &nbsp;Ask me about **PHP, Laravel, Tailwind CSS, Linux, VPS deployment &amp; web performance**  
+
 😄 &nbsp;Pronouns: **he/him**  
+
 ⚡ &nbsp;Fun fact: **I write my best code while listening to Billie Eilish on loop at 2 AM 🎵**
 
 ### 🛠️ Tech Stack
@@ -55,16 +61,15 @@
 <p align="left">
   <a href="https://x.com/CrissEilish"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://tiktok.com/@CrisssEilish"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://dev.to/crisseilish"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://heycriss.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dev.to/crisseilish"><img 
+  src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>   <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+</a>
+<a href="https://instagram.com/crisseilish" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://heycriss.dev"><img ...
+                                 
   <a href="mailto:Contact@heycriss.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=CrissEilish&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=CrissEilish&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
